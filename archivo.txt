@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-hola mundo and good bye word...
-=======
-Chau mundo
-Hola Mundo
->>>>>>> d0ba2f13ae3982830752c17864b83a11b30b1892
+
+
+
+
+
+
